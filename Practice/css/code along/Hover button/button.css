@@ -3,7 +3,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 100px;
   background-color: #151b29;
 }
 button{
@@ -17,7 +17,7 @@ button{
 
 }
 button:hover{
-  border-color: #ff9b29ea;
+  border-color: #7fff29ea;
     color: #ff9b29ea;
     box-shadow: 0px 6px 8px #ff9b29ea;
 }
